@@ -44,7 +44,7 @@ This milestone of the Airline Reservation System demonstrates how to build a **J
    ```bash
    git clone https://github.com/MnstrsParago/OOP.ASG4.Milestone2.git
    cd OOP.ASG4.Milestone2
-``
+   ```
 
 2. Create the `Passenger` table in your PostgreSQL database:
 
